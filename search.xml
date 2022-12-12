@@ -11,10 +11,16 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我公会从即日起开始与MCG公会建交，也将会在一些特定领域开始合作。<br>预祝我们合作顺利！</p>]]></content>
       
       
+      <categories>
+          
+          <category> 公会 </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> 公会 </tag>
+            <tag> 公会公告 </tag>
             
         </tags>
       
